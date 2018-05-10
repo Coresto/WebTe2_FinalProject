@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="last_zadanie">
+    <serverData>
+      <paths name="last_zadanie">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/xkubalad/public_html/final_project" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
